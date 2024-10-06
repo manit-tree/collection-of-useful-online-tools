@@ -5,6 +5,7 @@ Collection of useful online tools and resources
 
 - [https://ray.so](https://ray.so)
 - [https://readme.so](https://readme.so)
+- [https://srcbook.com](https://srcbook.com)
 
 # Color
 
@@ -16,3 +17,7 @@ Collection of useful online tools and resources
 
 - [https://boxicons.com](https://boxicons.com)
 - [https://www.svgrepo.com](https://www.svgrepo.com)
+
+# Animations
+
+- [https://lottiefiles.com](https://lottiefiles.com)
