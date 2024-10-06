@@ -43,3 +43,5 @@ Collection of useful online tools and resources
 # Frameworks
 
 - [https://hono.dev](https://hono.dev)
+- [https://www.electronjs.org](https://www.electronjs.org)
+- [https://nwjs.io](https://nwjs.io)
