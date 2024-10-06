@@ -35,3 +35,7 @@ Collection of useful online tools and resources
 
 - [https://vercel.com](https://vercel.com)
 - [https://glitch.com](https://glitch.com)
+
+# News & Blogs
+
+- [https://bestofjs.org](https://bestofjs.org)
