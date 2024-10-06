@@ -39,3 +39,7 @@ Collection of useful online tools and resources
 # News & Blogs
 
 - [https://bestofjs.org](https://bestofjs.org)
+
+# Frameworks
+
+- [https://hono.dev](https://hono.dev)
