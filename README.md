@@ -45,3 +45,4 @@ Collection of useful online tools and resources
 - [https://hono.dev](https://hono.dev)
 - [https://www.electronjs.org](https://www.electronjs.org)
 - [https://nwjs.io](https://nwjs.io)
+- [https://neutralino.js.org](https://neutralino.js.org)
