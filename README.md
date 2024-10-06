@@ -26,3 +26,12 @@ Collection of useful online tools and resources
 
 - [https://squoosh.app](https://squoosh.app)
 - [https://tinypng.com](https://tinypng.com)
+
+# Playgrounds
+
+- [https://codedamn.com](https://codedamn.com)
+
+# Hosting
+
+- [https://vercel.com](https://vercel.com)
+- [https://glitch.com](https://glitch.com)
