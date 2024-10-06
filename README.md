@@ -21,3 +21,8 @@ Collection of useful online tools and resources
 # Animations
 
 - [https://lottiefiles.com](https://lottiefiles.com)
+
+# Image Compression
+
+- [https://squoosh.app](https://squoosh.app)
+- [https://tinypng.com](https://tinypng.com)
