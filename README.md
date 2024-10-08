@@ -18,6 +18,7 @@ Collection of useful online tools and resources
 
 - [https://boxicons.com](https://boxicons.com)
 - [https://www.svgrepo.com](https://www.svgrepo.com)
+- [https://iconify.design/](https://iconify.design)
 
 # Animations
 
