@@ -23,6 +23,7 @@ Collection of useful online tools and resources
 # Photos & Images
 
 - [https://stockcake.com](https://stockcake.com)
+- [https://www.cleansnap.co](https://www.cleansnap.co)
 
 # Animations
 
