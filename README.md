@@ -20,6 +20,10 @@ Collection of useful online tools and resources
 - [https://www.svgrepo.com](https://www.svgrepo.com)
 - [https://iconify.design/](https://iconify.design)
 
+# Photos & Images
+
+- [https://stockcake.com](https://stockcake.com)
+
 # Animations
 
 - [https://lottiefiles.com](https://lottiefiles.com)
