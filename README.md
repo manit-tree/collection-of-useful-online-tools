@@ -8,6 +8,12 @@ Collection of useful online tools and resources
 - [https://srcbook.com](https://srcbook.com)
 - [https://rabonatunnel.com](https://rabonatunnel.com)
 
+# CLI
+
+- [https://github.com/FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+- [https://github.com/cameronhunter/local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy)
+- [https://rabonatunnel.com](https://rabonatunnel.com)
+
 # Color
 
 - [https://palettemaker.com/app](https://palettemaker.com/app)
