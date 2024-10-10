@@ -8,6 +8,15 @@ Collection of useful online tools and resources
 - [https://srcbook.com](https://srcbook.com)
 - [https://rabonatunnel.com](https://rabonatunnel.com)
 
+# Build Tool
+
+- [https://rollupjs.org](https://rollupjs.org)
+- [https://vite.dev](https://vite.dev)
+- [https://parceljs.org](https://parceljs.org)
+- [https://rspack.dev](https://rspack.dev)
+- [https://esbuild.github.io](https://esbuild.github.io)
+- [https://webpack.js.org](https://webpack.js.org)
+
 # CLI
 
 - [https://github.com/FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
