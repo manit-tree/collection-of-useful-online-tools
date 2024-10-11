@@ -7,6 +7,7 @@ Collection of useful online tools and resources
 - [https://readme.so](https://readme.so)
 - [https://srcbook.com](https://srcbook.com)
 - [https://rabonatunnel.com](https://rabonatunnel.com)
+- [https://github.com/microsoft/ts-fix](https://github.com/microsoft/ts-fix)
 
 # Build Tool
 
