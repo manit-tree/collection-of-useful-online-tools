@@ -25,6 +25,7 @@ Collection of useful online tools and resources
 
 # Color
 
+- [https://laura.media/shade-studio](https://laura.media/shade-studio)
 - [https://palettemaker.com/app](https://palettemaker.com/app)
 - [https://color.adobe.com](https://color.adobe.com)
 - [https://colorhunt.co](https://colorhunt.co)
