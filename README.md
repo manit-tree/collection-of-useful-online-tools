@@ -92,3 +92,7 @@ Collection of useful online tools and resources
 # APIs
 
 - [https://www.freepublicapis.com](https://www.freepublicapis.com)
+
+# JavaScript Libraries
+
+- [https://amagi.dev/vfx-js](https://amagi.dev/vfx-js)
