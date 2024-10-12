@@ -54,6 +54,7 @@ Collection of useful online tools and resources
 
 # Playgrounds
 
+- [https://jsnotebook.dev](https://jsnotebook.dev)
 - [https://codedamn.com](https://codedamn.com)
 - [https://jsbin.com](https://jsbin.com)
 - [https://glitch.com](https://glitch.com)
