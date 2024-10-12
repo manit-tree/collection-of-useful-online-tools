@@ -33,6 +33,7 @@ Collection of useful online tools and resources
 - [https://palettemaker.com/app](https://palettemaker.com/app)
 - [https://color.adobe.com](https://color.adobe.com)
 - [https://colorhunt.co](https://colorhunt.co)
+- [https://thegoodcolors.com](https://thegoodcolors.com)
 
 # Icons
 
