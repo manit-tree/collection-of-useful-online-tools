@@ -48,6 +48,7 @@ Collection of useful online tools and resources
 
 - [https://stockcake.com](https://stockcake.com)
 - [https://www.cleansnap.co](https://www.cleansnap.co)
+- [https://dupephotos.com] (https://dupephotos.com)
 
 # Animations
 
