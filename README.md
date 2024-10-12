@@ -58,6 +58,7 @@ Collection of useful online tools and resources
 - [https://squoosh.app](https://squoosh.app)
 - [https://tinypng.com](https://tinypng.com)
 - [https://slimify.app](https://slimify.app)
+- [https://picsmaller.com](https://picsmaller.com)
 
 # Fonts
 
