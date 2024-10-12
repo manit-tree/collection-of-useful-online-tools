@@ -19,6 +19,7 @@ Collection of useful online tools and resources
 - [https://esbuild.github.io](https://esbuild.github.io)
 - [https://webpack.js.org](https://webpack.js.org)
 - [https://makojs.dev](https://makojs.dev)
+- [https://www.farmfe.org](https://www.farmfe.org)
 
 # CLI
 
