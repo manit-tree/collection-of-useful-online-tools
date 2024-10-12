@@ -9,6 +9,7 @@ Collection of useful online tools and resources
 - [https://rabonatunnel.com](https://rabonatunnel.com)
 - [https://github.com/microsoft/ts-fix](https://github.com/microsoft/ts-fix)
 
+
 # Build Tool
 
 - [https://rollupjs.org](https://rollupjs.org)
@@ -54,6 +55,12 @@ Collection of useful online tools and resources
 # Playgrounds
 
 - [https://codedamn.com](https://codedamn.com)
+- [https://jsbin.com](https://jsbin.com)
+- [https://glitch.com](https://glitch.com)
+- [https://playcode.io](https://playcode.io)
+- [https://jsfiddle.net](https://jsfiddle.net)
+- [https://www.typescriptlang.org/play](https://www.typescriptlang.org/play)
+- [https://codesandbox.io](https://codesandbox.io)
 
 # Hosting
 
