@@ -50,6 +50,7 @@ Collection of useful online tools and resources
 # Animations
 
 - [https://lottiefiles.com](https://lottiefiles.com)
+- [https://www.trangram.com](https://www.trangram.com)
 
 # Image Compression
 
