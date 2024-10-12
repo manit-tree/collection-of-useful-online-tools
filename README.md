@@ -66,6 +66,7 @@ Collection of useful online tools and resources
 - [https://jsfiddle.net](https://jsfiddle.net)
 - [https://www.typescriptlang.org/play](https://www.typescriptlang.org/play)
 - [https://codesandbox.io](https://codesandbox.io)
+- [https://python-fiddle.com](https://python-fiddle.com)
 
 # Hosting
 
