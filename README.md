@@ -98,3 +98,4 @@ Collection of useful online tools and resources
 
 - [https://amagi.dev/vfx-js](https://amagi.dev/vfx-js)
 - [https://ofajs.com/en/index.html](https://ofajs.com/en/index.html)
+- [https://kaplayjs.com](https://kaplayjs.com)
