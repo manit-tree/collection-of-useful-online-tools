@@ -62,6 +62,7 @@ Collection of useful online tools and resources
 - [https://tinypng.com](https://tinypng.com)
 - [https://slimify.app](https://slimify.app)
 - [https://picsmaller.com](https://picsmaller.com)
+- [https://jpegcompressor.com](https://jpegcompressor.com)
 
 # Fonts
 
