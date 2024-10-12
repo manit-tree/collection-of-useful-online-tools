@@ -4,6 +4,7 @@ Collection of useful online tools and resources
 # Developer Tools
 
 - [https://ray.so](https://ray.so)
+- [https://cs.vkrsi.com](https://cs.vkrsi.com)
 - [https://readme.so](https://readme.so)
 - [https://srcbook.com](https://srcbook.com)
 - [https://rabonatunnel.com](https://rabonatunnel.com)
