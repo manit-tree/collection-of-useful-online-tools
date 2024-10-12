@@ -18,6 +18,7 @@ Collection of useful online tools and resources
 - [https://rspack.dev](https://rspack.dev)
 - [https://esbuild.github.io](https://esbuild.github.io)
 - [https://webpack.js.org](https://webpack.js.org)
+- [https://makojs.dev](https://makojs.dev)
 
 # CLI
 
