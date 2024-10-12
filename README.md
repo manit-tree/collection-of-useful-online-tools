@@ -83,3 +83,7 @@ Collection of useful online tools and resources
 - [https://www.electronjs.org](https://www.electronjs.org)
 - [https://nwjs.io](https://nwjs.io)
 - [https://neutralino.js.org](https://neutralino.js.org)
+
+# APIs
+
+- [https://www.freepublicapis.com](https://www.freepublicapis.com)
