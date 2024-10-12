@@ -52,6 +52,10 @@ Collection of useful online tools and resources
 - [https://squoosh.app](https://squoosh.app)
 - [https://tinypng.com](https://tinypng.com)
 
+# Fonts
+
+- [https://departuremono.com](https://departuremono.com)
+- 
 # Playgrounds
 
 - [https://jsnotebook.dev](https://jsnotebook.dev)
