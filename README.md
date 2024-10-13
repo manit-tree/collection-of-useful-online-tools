@@ -9,6 +9,7 @@ Collection of useful online tools and resources
 - [https://srcbook.com](https://srcbook.com)
 - [https://rabonatunnel.com](https://rabonatunnel.com)
 - [https://github.com/microsoft/ts-fix](https://github.com/microsoft/ts-fix)
+- [https://www.bairesdev.com/tools/json2yaml](https://www.bairesdev.com/tools/json2yaml)
 
 
 # Build Tool
