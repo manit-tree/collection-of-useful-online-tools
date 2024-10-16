@@ -42,6 +42,7 @@ Collection of useful online tools and resources
 - [https://colorhunt.co](https://colorhunt.co)
 - [https://thegoodcolors.com](https://thegoodcolors.com)
 - [https://deblank.com](https://deblank.com)
+- [https://coolors.co](https://coolors.co)
 
 # Icons
 
