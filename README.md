@@ -15,6 +15,7 @@ Collection of useful online tools and resources
 # Web Design Tools
 
 - [https://neumorphism.io/#e0e0e0](https://neumorphism.io/#e0e0e0)
+- [https://uiverse.io](https://uiverse.io)
 
 # Build Tool
 
