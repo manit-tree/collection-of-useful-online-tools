@@ -12,6 +12,9 @@ Collection of useful online tools and resources
 - [https://www.bairesdev.com/tools/json2yaml](https://www.bairesdev.com/tools/json2yaml)
 - [https://vapidkeys.com](https://vapidkeys.com)
 
+# Web Design Tools
+
+- [https://neumorphism.io/#e0e0e0](https://neumorphism.io/#e0e0e0)
 
 # Build Tool
 
