@@ -11,6 +11,7 @@ Collection of useful online tools and resources
 - [https://github.com/microsoft/ts-fix](https://github.com/microsoft/ts-fix)
 - [https://www.bairesdev.com/tools/json2yaml](https://www.bairesdev.com/tools/json2yaml)
 - [https://vapidkeys.com](https://vapidkeys.com)
+- [https://htmlcheatsheet.com/js](https://htmlcheatsheet.com/js)
 
 # Web Design Tools
 
