@@ -90,6 +90,7 @@ Collection of useful online tools and resources
 - [https://codesandbox.io](https://codesandbox.io)
 - [https://python-fiddle.com](https://python-fiddle.com)
 - [https://repljs.com](https://repljs.com)
+- [https://replit.com](https://replit.com)
 
 # Hosting
 
