@@ -1,7 +1,7 @@
 # collection-of-useful-online-tools
 Collection of useful online tools and resources
 
-# Developer Tools
+## Developer Tools
 
 - [https://ray.so](https://ray.so)
 - [https://cs.vkrsi.com](https://cs.vkrsi.com)
@@ -13,12 +13,16 @@ Collection of useful online tools and resources
 - [https://vapidkeys.com](https://vapidkeys.com)
 - [https://htmlcheatsheet.com/js](https://htmlcheatsheet.com/js)
 
-# Web Design Tools
+## Image Placeholder
+
+- [https://picsum.photos]/https://picsum.photos
+
+## Web Design Tools
 
 - [https://neumorphism.io/#e0e0e0](https://neumorphism.io/#e0e0e0)
 - [https://uiverse.io](https://uiverse.io)
 
-# Build Tool
+## Build Tool
 
 - [https://rollupjs.org](https://rollupjs.org)
 - [https://vite.dev](https://vite.dev)
@@ -29,13 +33,13 @@ Collection of useful online tools and resources
 - [https://makojs.dev](https://makojs.dev)
 - [https://www.farmfe.org](https://www.farmfe.org)
 
-# CLI
+## CLI
 
 - [https://github.com/FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
 - [https://github.com/cameronhunter/local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy)
 - [https://rabonatunnel.com](https://rabonatunnel.com)
 
-# Color
+## Color
 
 - [https://laura.media/shade-studio](https://laura.media/shade-studio)
 - [https://palettemaker.com/app](https://palettemaker.com/app)
@@ -45,7 +49,7 @@ Collection of useful online tools and resources
 - [https://deblank.com](https://deblank.com)
 - [https://coolors.co](https://coolors.co)
 
-# Icons
+## Icons
 
 - [https://boxicons.com](https://boxicons.com)
 - [https://www.svgrepo.com](https://www.svgrepo.com)
@@ -54,19 +58,19 @@ Collection of useful online tools and resources
 - [https://emojikitchen.com](https://emojikitchen.com)
 - [https://www.ray.so/icon](https://www.ray.so/icon)
 
-# Photos & Images
+## Photos & Images
 
 - [https://stockcake.com](https://stockcake.com)
 - [https://www.cleansnap.co](https://www.cleansnap.co)
 - [https://dupephotos.com] (https://dupephotos.com)
 - https://uifaces.co](https://uifaces.co)
 
-# Animations
+## Animations
 
 - [https://lottiefiles.com](https://lottiefiles.com)
 - [https://www.trangram.com](https://www.trangram.com)
 
-# Image Compression
+## Image Compression
 
 - [https://squoosh.app](https://squoosh.app)
 - [https://tinypng.com](https://tinypng.com)
@@ -74,11 +78,11 @@ Collection of useful online tools and resources
 - [https://picsmaller.com](https://picsmaller.com)
 - [https://jpegcompressor.com](https://jpegcompressor.com)
 
-# Fonts
+## Fonts
 
 - [https://departuremono.com](https://departuremono.com)
 - 
-# Playgrounds
+## Playgrounds
 
 - [https://jsnotebook.dev](https://jsnotebook.dev)
 - [https://codedamn.com](https://codedamn.com)
@@ -93,28 +97,28 @@ Collection of useful online tools and resources
 - [https://replit.com](https://replit.com)
 - [https://jsfiddle.net](https://jsfiddle.net)
 
-# Hosting
+## Hosting
 
 - [https://vercel.com](https://vercel.com)
 - [https://glitch.com](https://glitch.com)
 
-# News & Blogs
+## News & Blogs
 
 - [https://bestofjs.org](https://bestofjs.org)
 - [https://roadmap.sh](https://roadmap.sh)
 
-# Frameworks
+## Frameworks
 
 - [https://hono.dev](https://hono.dev)
 - [https://www.electronjs.org](https://www.electronjs.org)
 - [https://nwjs.io](https://nwjs.io)
 - [https://neutralino.js.org](https://neutralino.js.org)
 
-# APIs
+## APIs
 
 - [https://www.freepublicapis.com](https://www.freepublicapis.com)
 
-# JavaScript Libraries
+## JavaScript Libraries
 
 - [https://amagi.dev/vfx-js](https://amagi.dev/vfx-js)
 - [https://ofajs.com/en/index.html](https://ofajs.com/en/index.html)
