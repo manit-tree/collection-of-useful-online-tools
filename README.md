@@ -15,7 +15,7 @@ Collection of useful online tools and resources
 
 ## Image Placeholder
 
-- [https://picsum.photos]/https://picsum.photos
+- [https://picsum.photos](https://picsum.photos)
 
 ## Web Design Tools
 
