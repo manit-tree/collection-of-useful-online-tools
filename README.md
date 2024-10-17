@@ -96,6 +96,7 @@ Collection of useful online tools and resources
 - [https://repljs.com](https://repljs.com)
 - [https://replit.com](https://replit.com)
 - [https://jsfiddle.net](https://jsfiddle.net)
+- [https://python-fiddle.com](https://python-fiddle.com)
 
 ## Hosting
 
