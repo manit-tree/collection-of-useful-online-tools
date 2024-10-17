@@ -126,3 +126,4 @@ Collection of useful online tools and resources
 - [https://kaplayjs.com](https://kaplayjs.com)
 - [https://nigelotoole.github.io/share-url](https://nigelotoole.github.io/share-url)
 - [https://ejs.co](https://ejs.co)
+- [https://edgejs.dev](https://edgejs.dev)
