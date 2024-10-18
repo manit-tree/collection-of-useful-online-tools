@@ -14,6 +14,7 @@ Collection of useful online tools and resources
 - [https://htmlcheatsheet.com/js](https://htmlcheatsheet.com/js)
 - [https://www.kvin.me/css-springs](https://www.kvin.me/css-springs)
 - [https://overapi.com](https://overapi.com)
+- [https://lecoupa.github.io/awesome-cheatsheets](https://lecoupa.github.io/awesome-cheatsheets)
 
 ## Image Placeholder
 
