@@ -131,3 +131,4 @@ Collection of useful online tools and resources
 - [https://nigelotoole.github.io/share-url](https://nigelotoole.github.io/share-url)
 - [https://ejs.co](https://ejs.co)
 - [https://edgejs.dev](https://edgejs.dev)
+- [https://www.better-auth.com](https://www.better-auth.com)
